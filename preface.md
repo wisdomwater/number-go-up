@@ -911,3 +911,39 @@ Someone chose it.
 Someone lives under it.
 
 And eventually, everyone learns what it means.
+
+## What I Hope You Take Away
+
+I'm not going to give you a seven-step system for fixing metrics.
+
+For one thing, I don't have one.
+
+For another, turning this book into a measurement framework with twelve principles, six maturity levels, and a downloadable scorecard would feel a little too on the nose.
+
+What I hope to offer instead is a way of noticing.
+
+If you're a manager, I hope you'll look at a dashboard and occasionally ask what the people underneath those numbers are experiencing. I hope you'll ask not only whether the metric is moving, but what behavior you've created by measuring it.
+
+If you're the person being measured, I hope you'll better understand the strange incentives that sometimes develop around you. And I hope you'll remember that a number describing some aspect of your work, your body, your performance, or your life is exactly that: a description of one aspect. It is not a definition of you.
+
+And if you're part of an organization—and most of us are—I hope you'll become more attentive to what its measurements are quietly teaching everyone to value.
+
+Most of all, I hope we become better at asking two simple questions:
+
+**What's the point?**
+
+And:
+
+**Is this number still helping us see it?**
+
+Sometimes the answer will be yes.
+
+Wonderful. Keep measuring.
+
+Sometimes the answer will be no.
+
+That's when things get interesting.
+
+Because the goal of this book isn't to make us suspicious of numbers.
+
+It's to make us wise enough to know what they can tell us, humble enough to recognize what they can't, and courageous enough to choose meaning when the two come apart.
