@@ -799,3 +799,115 @@ That's what this book is ultimately interested in: not abandoning measurement, b
 We don't need fewer facts.
 
 We need to remember what they're for.
+
+## Three People Walk Into a Dashboard
+
+There are at least three ways to experience a metric.
+
+There is the person doing the measuring.
+
+There is the person being measured.
+
+And there is the culture that develops around them.
+
+We'll spend a lot of time with all three in this book because the same number can look remarkably different depending on where you're standing.
+
+Let's start with the **measurer**.
+
+The measurer has a problem. Something important is happening, and they need to understand it. Maybe they're managing a software organization, running a school, overseeing a hospital, leading a church, or simply trying to improve their own health.
+
+They can't see everything.
+
+So they measure.
+
+From their perspective, the metric is information.
+
+How many bugs did we close? How are test scores changing? How many patients did we serve? How many people attended? What happened to my weight this month?
+
+These are reasonable questions.
+
+Then there is the **measuree**.
+
+The measuree experiences the metric differently because the number may have consequences.
+
+If I'm told my commits are being tracked, I don't simply learn something interesting about my development activity.
+
+I learn that commits matter.
+
+If my performance review depends on bugs closed, I learn that bugs closed matter.
+
+If my watch tells me I haven't taken enough steps today, I learn that I have apparently disappointed my wrist.
+
+The measurer sees information.
+
+The measuree sees an incentive.
+
+That difference is enormous.
+
+Because human beings adapt.
+
+We learn what gets rewarded. We learn what gets punished. We learn what gets noticed. And, usually without anyone consciously deciding to do so, we begin shaping our behavior around those signals.
+
+Which brings us to the third participant: **culture**.
+
+Culture is what happens when those signals accumulate.
+
+An organization may have beautifully written values posted on its website. Quality. Integrity. Innovation. People first.
+
+Those words matter.
+
+But so does what happens when the quarter ends.
+
+Who gets promoted?
+
+Who gets praised?
+
+What gets funded?
+
+What gets questioned?
+
+Which number causes everyone to panic when it turns red?
+
+Over time, measurement teaches people what the organization actually values.
+
+That's why every metric is also a message.
+
+The measurer may intend to say, "This information will help us understand what is happening."
+
+The measuree may hear, "This is how I will be judged."
+
+And eventually the culture concludes, "This is what matters here."
+
+None of this requires bad people.
+
+That's worth emphasizing.
+
+The manager isn't necessarily trying to manipulate employees. The employee isn't necessarily trying to game the system. The organization isn't deliberately trying to create an unhealthy culture.
+
+Everyone can be acting reasonably.
+
+And the system can still produce something unreasonable.
+
+That is one of the reasons metrics deserve more thought than we often give them.
+
+Throughout this book, we'll keep moving among these three perspectives.
+
+We'll ask what the **measurer** is actually trying to understand.
+
+We'll ask how the **measuree** changes once the measurement becomes visible.
+
+And we'll ask what kind of **culture** emerges when the number is repeated, rewarded, and eventually treated as reality.
+
+Sometimes the interests of all three will align.
+
+Sometimes they won't.
+
+And when they don't, that's often where the most interesting things begin to happen.
+
+Because a number never exists entirely on its own.
+
+Someone chose it.
+
+Someone lives under it.
+
+And eventually, everyone learns what it means.
