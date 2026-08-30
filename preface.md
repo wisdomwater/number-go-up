@@ -397,3 +397,155 @@ Did the number move?
 But I was beginning to realize there was a better question.
 
 **Did I do the things that matter?**
+
+## And Apparently We Measure God Too
+
+My complicated relationship with measurement didn't begin with software engineering or a bathroom scale.
+
+It also showed up in church.
+
+For years, I was involved in church leadership, and churches have metrics just like every other organization. We tracked attendance. We tracked offerings. We tracked growth.
+
+There was even a wonderfully unspiritual phrase for it:
+
+**Nickels and noses.**
+
+How many people showed up, and how much money did they give?
+
+Put that way, it sounds a little crass. But once again, the measurements themselves aren't unreasonable. A church is a spiritual community, but it also has a building with an electric bill. Someone has to know whether there will be fifty people there on Sunday or five hundred. Budgets have to be created. Staff have to be paid. Chairs have to be purchased. Coffee must apparently be provided in quantities sufficient to sustain the kingdom of God.
+
+Numbers help.
+
+And if a church grows from fifty people to five hundred, that probably tells us something worth knowing.
+
+The question is what.
+
+I remember how easy it was to look at attendance and offerings as a kind of spiritual scoreboard.
+
+Attendance went up.
+
+Offerings went up.
+
+The church was growing.
+
+Number go up.
+
+God must be pleased.
+
+Of course, nobody had to say it quite that bluntly. We knew better than that. We knew that spiritual life was more complicated than attendance figures. We knew that a crowded sanctuary didn't necessarily mean everyone inside was becoming more loving, compassionate, forgiving, or whole.
+
+But numbers have a way of acquiring authority even when we know their limitations.
+
+A growing church looks successful.
+
+A shrinking church looks troubled.
+
+A ministry that attracts hundreds of people appears more significant than one that quietly serves twenty.
+
+And maybe it is.
+
+But maybe it isn't.
+
+That's where measurement starts running into something strange.
+
+Suppose a church grows by thirty percent this year. That's easy to report.
+
+Now suppose a woman who has carried resentment toward her father for twenty years finally begins to forgive him.
+
+Where does that go on the spreadsheet?
+
+Suppose a man who has spent his entire life terrified of what other people think of him begins, very slowly, to understand that he is loved.
+
+What unit should we use for that?
+
+Suppose someone learns to sit quietly for twenty minutes without asking God for anything. No requests. No answers. No spiritual fireworks. Just presence.
+
+Productivity: zero.
+
+And yet that might be the most important thing that person does all week.
+
+This is where my own spirituality has increasingly complicated the way I think about measurement.
+
+Much of my life has been spent in a world of things that can be counted. Software executes in measurable amounts of time. Businesses make measurable amounts of money. Bodies weigh measurable amounts. Churches have measurable numbers of people sitting in measurable numbers of chairs.
+
+But contemplative spirituality keeps drawing me toward something else.
+
+Stillness.
+
+Presence.
+
+Mystery.
+
+Love.
+
+The transcendent.
+
+These aren't merely things we haven't figured out how to measure yet, as though someone will eventually invent a sufficiently advanced smartwatch that reports my daily compassion score.
+
+There is something about them that seems diminished by the attempt.
+
+Contemplation is especially troublesome for a culture obsessed with productivity because, from the outside, absolutely nothing is happening.
+
+You sit.
+
+You breathe.
+
+You become quiet.
+
+If you're doing it correctly, you may not even have a particularly interesting experience to report afterward.
+
+Try putting that in a quarterly review.
+
+And yet I've come to believe that some of the most meaningful movements in a human life happen in precisely these spaces where very little can be counted.
+
+This doesn't mean measurement has no place in spiritual communities. Churches still need budgets. Attendance can reveal important patterns. If nobody has shown up for six months, insisting that your ministry is thriving on an invisible spiritual plane might be less contemplative wisdom and more denial.
+
+Numbers can tell us something.
+
+There is that word again.
+
+*Something.*
+
+They can tell us how many people came.
+
+They cannot tell us what happened inside them.
+
+They can tell us how much money was given.
+
+They cannot tell us whether generosity is growing.
+
+They can tell us whether a program is expanding.
+
+They cannot tell us whether anyone is becoming wise.
+
+And this raises a question much larger than church attendance.
+
+**What do we do with the things that matter deeply but resist measurement?**
+
+Our modern instinct is often to find a proxy.
+
+If we can't measure learning, measure test scores.
+
+If we can't measure productivity, measure activity.
+
+If we can't measure health, measure weight.
+
+If we can't measure community, measure attendance.
+
+If we can't measure influence, measure followers.
+
+If we can't measure spiritual transformation, count nickels and noses.
+
+Sometimes those proxies are useful.
+
+Sometimes they're necessary.
+
+But every proxy carries a temptation: eventually we can become so preoccupied with improving what we *can* measure that we lose sight of what we wanted to understand in the first place.
+
+Maybe that is the deepest version of the problem.
+
+It isn't simply that we occasionally choose bad metrics.
+
+It's that human beings seem naturally drawn toward making the visible more important than the invisible, the countable more authoritative than the experiential, the measurable more real than the meaningful.
+
+And if we're not careful, we can spend our lives making numbers go up without ever stopping long enough to ask what all those numbers were supposed to be for.
