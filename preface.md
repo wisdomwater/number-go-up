@@ -143,3 +143,127 @@ Because most measurements aren't the thing we actually care about. They're a sta
 And there's nothing wrong with looking through the window.
 
 The trouble starts when we forget there's a world on the other side.
+
+## Engineers Have a Highly Refined Bullshit Detector
+
+One of the occupational hazards of being an engineer is that you develop a fairly sensitive bullshit detector.
+
+I don't mean that engineers are uniquely wise. Spend enough time with us and that theory will collapse quickly.
+
+I mean that we're trained to look at systems and ask how they break.
+
+Give an engineer a process and we'll find the edge cases. Give us a rule and we'll ask what happens when two rules contradict each other. Give us a metric and, whether intentionally or not, we'll eventually figure out how to make the number go up.
+
+This can create some interesting situations.
+
+Years ago, I worked with an engineer who was known for getting things done quickly. He moved fast. He wrote code. He delivered. There was always activity around him, and activity is wonderfully visible.
+
+The problem was that some of the code wasn't particularly good.
+
+Bugs followed.
+
+But here's where the system became almost beautiful in its absurdity: when those bugs came back, he fixed them.
+
+Quickly.
+
+So the same engineer could receive credit for delivering code rapidly and then receive additional credit for rapidly fixing the problems created by the code he'd delivered rapidly.
+
+The machine had achieved perpetual motion.
+
+Meanwhile, imagine another engineer approaching the same problem differently. She spends more time thinking before writing the code. She considers the architecture. She tests the edge cases. She asks an annoying question in a design review that forces everyone to rethink an assumption. The feature takes a little longer to complete.
+
+And it works.
+
+No emergency.
+
+No heroic debugging session.
+
+No pile of bugs closed.
+
+Not much to see, really.
+
+If we're not careful about what we're measuring, the first engineer can look dramatically more productive than the second.
+
+That's what I mean when I talk about thrash.
+
+Thrash is activity that looks like progress because things are happening. Code is being written. Bugs are being filed. Bugs are being fixed. Meetings are being held. Messages are flying. People are working late. There is urgency everywhere.
+
+The organization is vibrating with productivity.
+
+But activity and progress are not the same thing.
+
+Most engineers recognize this instinctively because we live close enough to the work to see the difference. We know that a thousand-line change isn't necessarily better than a hundred-line change. We know that closing ten bugs isn't necessarily better than preventing ten bugs. We know that the engineer staring quietly at a whiteboard might be doing more valuable work than the engineer furiously typing.
+
+But knowing that a metric is flawed doesn't free you from the metric.
+
+This is where the situation becomes less funny.
+
+If your organization decides that something matters, and attaches a number to it, you learn very quickly that arguing with the number can be dangerous.
+
+You can explain that the metric doesn't capture the work accurately. You can point out the edge cases. You can describe the incentives it's creating. You can even demonstrate how easily it can be gamed.
+
+Sometimes people listen.
+
+Sometimes you become the person who is "resistant to change."
+
+Or "not aligned."
+
+Or "not being a team player."
+
+Corporate language has an impressive ability to make disagreement sound like a character defect.
+
+And ultimately, most employees understand the power relationship. Your employer determines how your performance is evaluated. Your performance affects your compensation, your opportunities, and sometimes whether you continue to have a job.
+
+So you adapt.
+
+This doesn't require some grand act of dishonesty. Most metric gaming is much more mundane than that. You simply begin paying attention to the things the system has told you matter.
+
+If commits are visible, you make sure your commits are visible.
+
+If bugs closed matter, you close bugs.
+
+If AI interactions matter, you interact with AI.
+
+If token usage demonstrates adoption, you use tokens.
+
+This is rational behavior.
+
+That's important, because when a metric begins producing strange behavior, the easiest response is often to blame the people.
+
+Why are employees gaming the system?
+
+Why are teachers teaching to the test?
+
+Why are customer-service representatives rushing people off the phone?
+
+Why are engineers optimizing their work around whatever appears on the performance dashboard?
+
+Maybe because we told them to.
+
+Not explicitly, of course.
+
+Nobody sent an email saying, "Please distort your behavior so that our quarterly metrics look better."
+
+We didn't have to.
+
+We created the score.
+
+We attached consequences to the score.
+
+Then we acted surprised when people started playing the game.
+
+This is one of the central ideas we'll explore throughout this book: measurement is rarely passive once the person being measured knows the measurement exists.
+
+A metric begins as an attempt to observe behavior.
+
+Then it becomes an incentive.
+
+And incentives have a remarkable habit of creating the very reality we're trying to measure.
+
+The engineer sees this.
+
+The manager sees the dashboard.
+
+Both are looking at something real.
+
+But they are not necessarily looking at the same thing.
