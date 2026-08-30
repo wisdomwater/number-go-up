@@ -267,3 +267,133 @@ The manager sees the dashboard.
 Both are looking at something real.
 
 But they are not necessarily looking at the same thing.
+
+## Then I Realized I Do This to Myself
+
+It would be convenient if this were only a book about management.
+
+I could spend the next couple hundred pages pointing out badly designed corporate metrics, making jokes about dashboards, and feeling quietly superior to the people who create them.
+
+Unfortunately, I own a bathroom scale.
+
+As I write this, I'm trying to lose about a hundred pounds.
+
+One hundred is a wonderfully round number, which should probably make me suspicious already. But it isn't entirely arbitrary. Losing that much weight would put me roughly where the medical charts say someone of my height should be. There are legitimate health reasons for wanting to get there.
+
+So I have a goal.
+
+And goals need metrics.
+
+Conveniently, weight loss comes with perhaps the most brutally efficient performance dashboard ever invented. You stand on it every morning, wait a few seconds, and it gives you your quarterly review.
+
+Except it does this every day.
+
+The number is wonderfully clear.
+
+Number go down: good.
+
+Number go up: bad.
+
+I wish my body had agreed to these terms.
+
+The frustrating thing about weight is that it doesn't always respond to my choices on the schedule I would prefer. I can have a day where I eat thoughtfully, stay within my calorie target, get some exercise, and generally behave like the responsible health-conscious adult I'm trying to become.
+
+Then I step on the scale the next morning.
+
+Number go up.
+
+Excuse me?
+
+I fulfilled my part of the agreement.
+
+This is where the rational part of my brain can offer all kinds of useful explanations. Body weight fluctuates. Water retention happens. Food has mass. Exercise can affect the scale. Bodies are complicated biological systems, not vending machines where I insert 500 fewer calories and receive 0.14 pounds of weight loss by morning.
+
+I know this.
+
+The scale still went up.
+
+And somewhere inside me, despite everything I know, yesterday's good choices suddenly feel a little less good.
+
+The reverse can happen too. I can have a day that wasn't particularly disciplined and step onto the scale the next morning to discover:
+
+Number go down.
+
+Excellent work, Michael.
+
+Apparently the pizza was part of the plan.
+
+Once I noticed this reaction in myself, I began to realize that my bathroom scale and the corporate dashboard weren't entirely different.
+
+In both cases, there is something I actually care about.
+
+At work, maybe it's good engineering.
+
+Here, it's health.
+
+And in both cases, the thing I actually care about is complicated, so I choose something easier to measure as a stand-in.
+
+Weight matters. I'm not going to pretend it doesn't. If I'm trying to lose a significant amount of weight and six months from now I weigh exactly what I weigh today, that's useful information. Something isn't working the way I hoped it would.
+
+But my weight this morning is not a particularly good measure of the quality of the choices I made yesterday.
+
+Those are two different things.
+
+This distinction turns out to be enormously important.
+
+There are **outcome measures** and there are **activity measures**.
+
+Weight is largely an outcome measure. I can influence it, but I cannot directly control it. There is no activity called "lose one pound" that I can add to my calendar for Thursday afternoon.
+
+What I can do is much closer to the point of action.
+
+I can decide what to eat.
+
+I can pay attention to calories and nutrition.
+
+I can exercise.
+
+I can prioritize sleep.
+
+I can make choices today that, repeated over time, should move the outcome in the direction I want.
+
+That word *should* matters.
+
+Because if I consistently do those things and the outcome still doesn't move, the scale hasn't become useless. Quite the opposite. It has given me information worth investigating. Maybe my assumptions are wrong. Maybe my approach needs to change. Maybe something else is happening that I haven't accounted for.
+
+The answer isn't to throw away the scale because I don't like what it says.
+
+But neither is the answer to grant the scale absolute authority over my experience.
+
+This creates a tension I suspect extends far beyond weight loss.
+
+We need measurement because intuition is remarkably good at lying to us. I can *feel* like I'm eating reasonably while consuming far more than I realize. I can *feel* active while spending most of the day sitting in a chair. Numbers can challenge the stories I tell myself.
+
+But numbers have blind spots too.
+
+They don't know how I feel.
+
+They don't know whether the workout that looks mediocre on paper was an enormous victory because I almost didn't do it.
+
+They don't know whether I'm sleeping better, moving more easily, thinking more clearly, or developing habits I might actually be able to sustain.
+
+The number knows what the number knows.
+
+Nothing more.
+
+That's when this stopped being merely an interesting problem I had observed in software organizations.
+
+I wasn't just being measured.
+
+I was the measurer.
+
+I was the measuree.
+
+And I was perfectly capable of creating the same dysfunctional incentive system inside my own head.
+
+The corporate dashboard and the bathroom scale were asking me the same question:
+
+Did the number move?
+
+But I was beginning to realize there was a better question.
+
+**Did I do the things that matter?**
