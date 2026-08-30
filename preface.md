@@ -947,3 +947,83 @@ That's when things get interesting.
 Because the goal of this book isn't to make us suspicious of numbers.
 
 It's to make us wise enough to know what they can tell us, humble enough to recognize what they can't, and courageous enough to choose meaning when the two come apart.
+
+## Wonderful Servants
+
+There is nothing wrong with a line going up and to the right.
+
+Sometimes that's exactly what we want.
+
+We want fewer bugs and better software. We want businesses to grow. We want students to learn. We want patients to recover. We want our bodies to become healthier. We want communities to flourish.
+
+We measure these things because we care about them.
+
+That's the order worth remembering.
+
+First, something matters.
+
+Then we find a way to measure it.
+
+Then we use judgment to decide what the measurement is telling us.
+
+**Meaning. Measurement. Judgment.**
+
+The trouble begins when we reverse that order.
+
+We choose a number. We set a target. We reward movement. We optimize the system around it. And eventually, instead of asking whether the number is helping us understand what matters, we begin defining what matters by whatever makes the number move.
+
+The map becomes the territory.
+
+The proxy becomes the goal.
+
+The measurement becomes the meaning.
+
+That can happen in a corporation looking at an AI adoption dashboard. It can happen to an engineer trying to demonstrate productivity. It can happen in a church counting people in the pews.
+
+It can happen to me standing barefoot on a bathroom scale.
+
+None of us is immune because the attraction is understandable. Numbers offer something the world rarely does: clarity.
+
+Life is messy.
+
+People are complicated.
+
+Meaning is difficult to define.
+
+Numbers sit there looking wonderfully certain.
+
+247.
+
+93 percent.
+
+1,842 tokens.
+
+Sixteen bugs closed.
+
+Four hundred people attended.
+
+There is comfort in precision.
+
+But precision and truth are not the same thing.
+
+A number can be perfectly accurate and still tell us very little about what matters.
+
+So the task ahead isn't to tear down the dashboards, throw away the scales, or retreat into a world where intuition gets the final word simply because it feels right.
+
+It's something more difficult.
+
+We have to learn to use measurement without surrendering our judgment to it.
+
+We have to remain curious when the number and our experience disagree.
+
+We have to keep asking what the point was before we started counting.
+
+And sometimes, we have to accept that the thing we care about most may never fit neatly into a cell on a spreadsheet.
+
+The numbers can come with us.
+
+They can inform us. Correct us. Challenge us. Warn us. Help us see patterns we would otherwise miss.
+
+They just don't get to decide where we're going.
+
+**Metrics are wonderful servants, but terrible masters.**
