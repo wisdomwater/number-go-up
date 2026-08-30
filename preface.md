@@ -549,3 +549,217 @@ It isn't simply that we occasionally choose bad metrics.
 It's that human beings seem naturally drawn toward making the visible more important than the invisible, the countable more authoritative than the experiential, the measurable more real than the meaningful.
 
 And if we're not careful, we can spend our lives making numbers go up without ever stopping long enough to ask what all those numbers were supposed to be for.
+
+## What’s the Point?
+
+There is a question I have started to think we should ask more often.
+
+It isn't particularly sophisticated.
+
+You won't need a consultant to facilitate a workshop around it. There is no maturity model. I don't have a certification program to sell you.
+
+The question is simply:
+
+**What's the point?**
+
+I mean that literally.
+
+What are we actually trying to accomplish?
+
+It's remarkable how difficult that question can become once an organization has been measuring something for a while.
+
+Why are we measuring lines of code?
+
+To understand engineering productivity.
+
+Okay. Why do we care about engineering productivity?
+
+Because we want engineers to produce valuable software efficiently.
+
+Good.
+
+Then that's the point.
+
+The point isn't lines of code.
+
+Lines of code are something we decided might help us understand whether we're getting there.
+
+The distinction seems painfully obvious when written down. Yet organizations lose track of it all the time.
+
+We create a metric because we care about something.
+
+Then we track the metric.
+
+Then we establish a target for the metric.
+
+Then we report progress against the target.
+
+Then someone's performance depends on reaching the target.
+
+Then a vice president has a slide showing whether the target was reached.
+
+And somewhere in that process, the original thing we cared about quietly leaves the room.
+
+The metric remains.
+
+Nobody necessarily notices.
+
+We're all very busy preparing the next slide.
+
+This is why I think *What's the point?* is such a useful question. It forces us to walk backward from the number to the reason the number exists.
+
+Take AI adoption.
+
+What's the point?
+
+Is the goal to consume more tokens?
+
+Probably not.
+
+Is the goal to have every employee interact with an LLM five times a day?
+
+I hope not.
+
+Maybe the point is to help people do certain kinds of work faster. Maybe it's to improve quality. Maybe it's to remove tedious work so people can spend more time on difficult problems. Maybe it's to make capabilities available to people who previously lacked them.
+
+Those are different goals.
+
+And they might require different measurements.
+
+More importantly, once we remember the goal, we regain the ability to recognize situations where the metric and the goal disagree.
+
+Suppose AI usage goes down while productivity goes up.
+
+Is that failure?
+
+The dashboard might say yes.
+
+*What's the point?* might give us a different answer.
+
+The same question works on my bathroom scale.
+
+What's the point?
+
+To make the number smaller?
+
+At first, yes. That's certainly part of it. I want to lose weight.
+
+But if I keep asking the question, eventually I get somewhere more interesting.
+
+Why do I want to lose weight?
+
+Because I want to be healthier.
+
+Why?
+
+Because I want my body to work well. I want energy. I want mobility. I want to reduce health risks. I want to be able to do things comfortably that are harder for me now. I want habits that make my life better rather than smaller.
+
+That's the point.
+
+Weight can help me understand whether I'm moving toward it.
+
+But imagine a ridiculous scenario in which I discover a way to lose fifty pounds while becoming dramatically less healthy.
+
+Would I be succeeding?
+
+Number go down.
+
+Goal achieved.
+
+Except, obviously, it wasn't.
+
+The number was never really the point.
+
+Church attendance works the same way.
+
+What's the point?
+
+To get more people into the building?
+
+Maybe that's useful. More people participating in a community can be a wonderful thing.
+
+But why do we want them there?
+
+Presumably because we hope something happens when they come.
+
+Connection.
+
+Transformation.
+
+Healing.
+
+Worship.
+
+Service.
+
+Love of God and love of neighbor.
+
+If attendance doubles while those things deteriorate, what exactly has grown?
+
+This question is useful precisely because it is so unsophisticated.
+
+**What's the point?**
+
+It interrupts the machinery.
+
+It asks us to stop looking at the dashboard for a moment and remember why we built the dashboard.
+
+And once we remember the point, we can ask a second question:
+
+**Does this metric still help us understand it?**
+
+The word *still* matters.
+
+A measurement can begin as a useful proxy and become less useful over time. People adapt. Systems change. Technology changes. Incentives appear. What once correlated with the outcome we cared about may no longer correlate with it in the same way.
+
+Yet metrics have institutional inertia.
+
+Once a number makes it onto a dashboard, it can be surprisingly difficult to kill.
+
+Someone depends on it.
+
+Someone reports it.
+
+Someone has a goal attached to it.
+
+Someone built a very nice chart.
+
+Eventually nobody remembers exactly why we're tracking it, but removing it feels irresponsible.
+
+So it survives.
+
+This is one reason measurement requires judgment.
+
+Not just mathematical judgment. Human judgment.
+
+We have to keep asking whether the representation still resembles the reality.
+
+And that means occasionally trusting the discomfort of the person closest to the work who says, "I know the dashboard says we're doing better, but something doesn't feel right."
+
+That person might be wrong.
+
+Feelings are not infallible either.
+
+But the disagreement itself is information.
+
+When the metric says one thing and lived experience says another, we shouldn't automatically choose whichever answer we prefer. We should become curious.
+
+Why are they disagreeing?
+
+What does the number see that I don't?
+
+What do I see that the number doesn't?
+
+That tension—between measurement and judgment, data and experience, the visible and the meaningful—is where much of this book will live.
+
+Because the goal isn't to defeat the numbers.
+
+It's to remember why we invited them into the room in the first place.
+
+We wanted help seeing something that mattered.
+
+And as long as the number continues helping us see it, wonderful.
+
+But when making the number better begins making the thing itself worse, we should know which one gets to win.
+
+The point gets to win.
