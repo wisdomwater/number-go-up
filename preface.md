@@ -992,7 +992,7 @@ Meaning is difficult to define.
 
 Numbers sit there looking wonderfully certain.
 
-247.
+247 points.
 
 93 percent.
 
