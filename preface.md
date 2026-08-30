@@ -763,3 +763,39 @@ And as long as the number continues helping us see it, wonderful.
 But when making the number better begins making the thing itself worse, we should know which one gets to win.
 
 The point gets to win.
+
+## This Is Not an Anti-Number Book
+
+At this point, I should probably make something clear.
+
+This is not an anti-number book.
+
+I'm an engineer. I like data. I want airplanes designed by people who measure things very carefully. I want my doctor looking at my actual bloodwork rather than gazing thoughtfully into my eyes and saying, "I'm sensing that your cholesterol is probably fine."
+
+Measurement works.
+
+Numbers reveal patterns we miss. They challenge assumptions. They expose the stories we tell ourselves when those stories aren't true. They allow us to compare where we are with where we were and determine whether something we're doing is actually helping.
+
+My bathroom scale isn't the enemy. Neither is the engineering dashboard. Neither is the church attendance report.
+
+The problem is not measurement.
+
+The problem is authority.
+
+How much authority should a number have when it conflicts with context, experience, judgment, or the reason we started measuring in the first place?
+
+Sometimes the number should win.
+
+Sometimes my intuition is wrong. Sometimes the data is showing me something I don't want to see. Being uncomfortable with a measurement is not evidence that the measurement is bad.
+
+But sometimes the number is wrong—or, more precisely, we're asking it to answer a question it was never capable of answering.
+
+Learning to tell the difference requires something no dashboard can provide for us.
+
+Judgment.
+
+That's what this book is ultimately interested in: not abandoning measurement, but developing a healthier relationship with it.
+
+We don't need fewer facts.
+
+We need to remember what they're for.
