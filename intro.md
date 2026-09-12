@@ -1,6 +1,6 @@
 # Introduction
 
-## Number Go Up
+### Number Go Up {#number-go-up-intro}
 
 There is a particular kind of moment that happens in corporate meetings. Someone puts a chart on the screen. The line is going up and to the right.
 
@@ -50,7 +50,7 @@ More than anything, it's about a very simple question that we have a surprising 
 
 **What's the point?**
 
-## Hi. I'm an Engineer. We Measure Things.
+### Hi. I'm an Engineer. We Measure Things.
 
 I should probably establish something before this begins to sound like a book about why metrics are bad.
 
@@ -112,7 +112,7 @@ They need the map.
 
 The question is how to use the map without forgetting the territory.
 
-## Then I Realized I Do This to Myself
+### Then I Realized I Do This to Myself
 
 For a long time, I mostly thought about this as an organizational problem.
 
@@ -168,7 +168,7 @@ Sometimes the problem isn't the metric.
 
 It's the authority I've given it.
 
-## And Apparently We Measure God Too
+### And Apparently We Measure God Too
 
 Once I started noticing this pattern, I began seeing it in places that had nothing to do with engineering.
 
@@ -226,7 +226,7 @@ Not that love, forgiveness, or compassion are unreal. Quite the opposite.
 
 The limitation may belong to the instrument.
 
-## What's the Point?
+### What's the Point?
 
 By this point, I had encountered the same pattern in three very different places.
 

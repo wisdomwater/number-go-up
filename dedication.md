@@ -1,17 +1,17 @@
-<div align="center">
-<p>
-For all my fellow cubicle warriors
-who have ever looked at a number
-and wondered if it was measuring the work
+```{=latex}
+\vspace*{\fill}
+\begin{center}
+For all my fellow cubicle warriors\\
+who have ever looked at a number\\
+and wondered if it was measuring the work\\
 or measuring them.
-</p>
 
-<p>
+\vspace{1.5\baselineskip}
 I see you.
-</p>
 
-<p>
+\vspace{1.5\baselineskip}
 You are more than the metric.
-</p>
-
-</div>
+\end{center}
+\vspace*{\fill}
+\newpage
+```
