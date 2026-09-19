@@ -12,10 +12,6 @@ Number Go Up: When Metrics Replace Meaning
 
 First edition, 2026
 
-Paperback ISBN: 9798172577031
-
-Hardcover ISBN: 9798172577451
-
 Published independently by Michael Collins
 
 Printed in the United States of America

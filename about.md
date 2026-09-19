@@ -1,4 +1,4 @@
-### About the Author
+# About the Author
 
 Michael Collins is a software engineer, writer, and longtime student of the complicated relationship between people and systems.
 
